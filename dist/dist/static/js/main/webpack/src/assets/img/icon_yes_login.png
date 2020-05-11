@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAvUlEQVQ4T2M07vj/n4EMwAjSeKacNJ0mnQwMg1TjuQf/GI7c/M+Q584M9hNRTr346D9D2fLfDB3hrAyGCozYNd56/p9BXoSRgZ0VElhXnvxnKF/+m6EhmIXBVIkJHoIYNvZt/8vw6M1/hu4oFoY7L/8zFC75zdAQxMJgoYLQhNWp//4xMNSu/cPw8SsDw73X/xiq/FgYbNRRNeH0499/DAxTdv1lMFBgZLDXwNREdOBgSxpEhSptNJKWUiGqASy9bi2iO4h+AAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/img/icon_yes_login.png
+// module id = XX4Z
+// module chunks = 0

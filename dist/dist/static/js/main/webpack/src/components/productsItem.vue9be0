@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"productItem flex flex-cloumn flex-justify-between"},[_vm._m(0),_vm._v(" "),_c('div',{staticClass:"app-info flex flex-row flex-align-center"},[_c('img',{staticClass:"app-img",attrs:{"src":"#"}}),_vm._v(" "),_c('span',[_vm._v(_vm._s(_vm.item.appName))])])])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"productItem-info flex flex-justify-between"},[_c('img',{staticClass:"productItem-img",attrs:{"src":"#"}}),_vm._v(" "),_c('div',{staticClass:"productItem-desc flex flex-cloumn flex flex-justify-between"},[_c('span',[_vm._v("额度高达")]),_vm._v(" "),_c('div',{staticClass:"Amount"},[_vm._v("5000"),_c('span',[_vm._v("元")])]),_vm._v(" "),_c('div',{staticClass:"returnMoney"},[_vm._v("还款周期：12个月")])])])}]
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-31ce5a91","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/productsItem.vue
+// module id = null
+// module chunks = 

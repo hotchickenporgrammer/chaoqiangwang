@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"container flex flex-cloumn pad-top-nav"},[_vm._m(0),_vm._v(" "),_c('div',{staticClass:"detail"},[_vm._m(1),_vm._v(" "),_c('div',{staticClass:"time"},[_vm._v("2019-02-02")]),_vm._v(" "),_c('div',{staticClass:"richText",domProps:{"innerHTML":_vm._s(_vm.content)}})])])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"search flex flex-row flex-align-center"},[_c('img',{attrs:{"src":require("../../assets/img/img_logo_search.png")}}),_vm._v(" "),_c('div',{staticClass:"search-bar flex flex-justify-between"},[_c('input',{attrs:{"type":"text"}}),_vm._v(" "),_c('div',{staticClass:"search-btn flex flex-align-center flex-justify-center"},[_vm._v("需求搜索")])])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"detail-title flex flex-row flex-align-center"},[_c('div',{staticClass:"title-text"},[_vm._v("手把手教你如何成为一名贷超高手")]),_vm._v(" "),_c('div',{staticClass:"title-tag"},[_vm._v("资讯")])])}]
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-284d9150","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/view/news/searchDetail.vue
+// module id = null
+// module chunks = 

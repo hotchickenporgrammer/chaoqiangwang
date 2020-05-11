@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAArklEQVQoU5XSvQ7BUBwF8HO8CpNBis072Ulvp6qyCzYWGpuEWPAMer1Pe6RDk/poU//5/G7+H5f4s1jMO752AiLr8Vz2zjuYaADgKGBoDQ+/0BvIAp1AvYZwATGKXW4/0RfIAt2p2hKuEILYcFlEP0EW6IVqpQluIlbW5TxHpaDvq5kQdwLrh+GsEuQtSQit4aKypXxoCWPrcVM5tPPvWp2J9ikQPQ1PtQ5X55e8ABcURQ2Cd+2xAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/img/icon_detail_search.png
+// module id = Cr92
+// module chunks = 0

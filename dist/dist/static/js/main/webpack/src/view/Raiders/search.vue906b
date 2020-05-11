@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"container flex flex-cloumn pad-top-nav"},[_vm._m(0),_vm._v(" "),_c('div',{staticClass:"flex flex-row flex-justify-between results"},[_c('div',{staticClass:"list"},_vm._l((_vm.list),function(item,index){return _c('div',{key:index,staticClass:"list-item flex flex-cloumn",on:{"click":function($event){return _vm.toLink('/RaidersSearchDetail')}}},[_c('div',{staticClass:"flex flex-row flex-align-content"},[_c('span',{staticClass:"item-title"},[_vm._v(_vm._s(item.title))]),_vm._v(" "),_c('span',{staticClass:"item-tag"},[_vm._v("攻略")])]),_vm._v(" "),_c('div',{staticClass:"item-content"},[_vm._v(_vm._s(item.content))]),_vm._v(" "),_c('div',{staticClass:"item-time"},[_vm._v(_vm._s(item.time))])])}),0)]),_vm._v(" "),_c('Pagination')],1)}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"search flex flex-row flex-align-center"},[_c('img',{attrs:{"src":require("../../assets/img/img_logo_search.png")}}),_vm._v(" "),_c('div',{staticClass:"search-bar flex flex-justify-between"},[_c('input',{attrs:{"type":"text"}}),_vm._v(" "),_c('div',{staticClass:"search-btn flex flex-align-center flex-justify-center"},[_vm._v("需求搜索")])])])}]
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-0fb8be3b","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/view/Raiders/search.vue
+// module id = null
+// module chunks = 

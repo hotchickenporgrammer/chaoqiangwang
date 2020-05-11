@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA5klEQVQ4T2NkIBMwEtLn5Rsfxsjwv3br5kW6yGrxavTyjY1lZGDsZ/zP4Ltly6LjRGn08YlN/c/I2Mr4/5/Hli1LzqG7DKuN3r5xuQwMDFX/mZjctm1ccBmbdzA0+vjFlv3/z5jPxMDkvHnzghu4wgBFo7dvbB0DA2MSwz8Wp61b593DF3BoGuPKGRgY8gjZBjIQi1Pj8v//Z6jA5z+sGkGCXr5x6YwMDM24QhSnRpCEj0983H/G/33Y4hCvRojmuPD/jAzT/jMyBm7btPAQUQkApsjXNybg33/Gpq1bFuuRpBFXlAAAX9RPDx+cyHUAAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/img/icon_back_foot.png
+// module id = 38gb
+// module chunks = 0

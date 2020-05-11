@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"NavBar",class:_vm.isShowBg?'nav-bg':''},[_c('div',{staticClass:"container height-100"},[_c('div',{staticClass:"null-bar"}),_vm._v(" "),_c('div',{staticClass:"item-group flex flex-justify-between"},[_c('div',{staticClass:"nav-left flex flex-align-center"},_vm._l((_vm.navList),function(i,index){return _c('div',{key:index,class:_vm.isShowBg ? 'nav-items' : 'index-nav-items',on:{"click":function($event){return _vm.toNav(i.path)}}},[_c('span',{class:_vm.isCurrent(i.pathType)},[_vm._v(_vm._s(i.name))])])}),0),_vm._v(" "),_c('div',{staticClass:"nav-right flex flex-align-center"},[_c('div',{class:_vm.isShowBg?'nav-items':'index-nav-items',on:{"click":function($event){return _vm.toNav('/login')}}},[_vm._v("你好，请登录")]),_vm._v(" "),_c('div',{staticClass:"nav-items login",on:{"click":function($event){return _vm.toNav('/login')}}},[_vm._v("免费注册")]),_vm._v(" "),_c('div',{class:_vm.isShowBg?'nav-items':'index-nav-items'},[_c('span',[_vm._v("客服服务")])])])])])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-145f8f47","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/NavBar.vue
+// module id = null
+// module chunks = 
